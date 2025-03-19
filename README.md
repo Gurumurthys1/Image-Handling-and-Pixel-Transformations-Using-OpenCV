@@ -259,7 +259,8 @@ plt.title("Merged RGB Image")
 plt.axis("off")
 plt.show()
 ```
-![alt text](image-21.png)
+![image-35-1](https://github.com/user-attachments/assets/285cba78-4150-4391-ae60-d80c5101588c)
+
 #### 22. Split the image into the H, S, V components & Display the channels.
 ```python
 hsv_img = cv2.cvtColor(img_3_rgb, cv2.COLOR_RGB2HSV)
